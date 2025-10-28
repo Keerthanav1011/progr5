@@ -1,2 +1,2 @@
 # progr5
-rebase demo
+rebase demo for lab practice
